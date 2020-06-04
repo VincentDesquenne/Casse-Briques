@@ -1,0 +1,2 @@
+C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriquesContent\obj\x86\Debug\CasseBriquesContent.contentprojAssemblyReference.cache
+C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriquesContent\obj\x86\Debug\CasseBriquesContent.contentproj.CoreCompileInputs.cache

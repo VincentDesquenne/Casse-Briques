@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>sounds\collisionBrique.wav</Source>
+      <Name>sounds\collisionBrique</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\sounds\collisionBrique.xnb</Output>
+      <Time>2020-01-27T19:21:38.8845677+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\collisionMur.wav</Source>
+      <Name>sounds\collisionMur</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\sounds\collisionMur.xnb</Output>
+      <Time>2020-01-27T19:25:19.7059894+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\collisionRaquette.wav</Source>
+      <Name>sounds\collisionRaquette</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\sounds\collisionRaquette.xnb</Output>
+      <Time>2020-01-27T19:24:27.0457609+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mesImages\brique0.png</Source>
+      <Name>mesImages\brique0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\mesImages\brique0.xnb</Output>
+      <Time>2020-01-27T19:35:45.1832935+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mesImages\brique1.png</Source>
+      <Name>mesImages\brique1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\mesImages\brique1.xnb</Output>
+      <Time>2020-01-27T19:35:48.6281404+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mesImages\brique3.png</Source>
+      <Name>mesImages\brique3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\mesImages\brique3.xnb</Output>
+      <Time>2020-01-27T19:35:54.9190985+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mesImages\brique4.png</Source>
+      <Name>mesImages\brique4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\mesImages\brique4.xnb</Output>
+      <Time>2020-01-27T19:36:31.5772515+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mesImages\brique5.png</Source>
+      <Name>mesImages\brique5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\mesImages\brique5.xnb</Output>
+      <Time>2020-01-27T19:36:55.7054552+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mesImages\brique6.png</Source>
+      <Name>mesImages\brique6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\mesImages\brique6.xnb</Output>
+      <Time>2020-01-27T19:37:34.8556085+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\musique.mp3</Source>
+      <Name>sounds\musique</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\sounds\musique.xnb</Output>
+      <Extra>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\sounds\musique.wma</Extra>
+      <Time>2020-01-28T19:06:41.4748238+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\musique2.mp3</Source>
+      <Name>sounds\musique2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\sounds\musique2.xnb</Output>
+      <Extra>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\sounds\musique2.wma</Extra>
+      <Time>2020-01-28T21:02:21.6424257+01:00</Time>
+    </Item>
+    <Item>
+      <Source>font\aFont.spritefont</Source>
+      <Name>font\aFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\font\aFont.xnb</Output>
+      <Time>2020-01-28T21:26:50.7583046+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mesImages\fond2.jpg</Source>
+      <Name>mesImages\fond2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\mesImages\fond2.xnb</Output>
+      <Time>2020-01-28T20:22:13.1065108+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mesImages\briquetransparente.png</Source>
+      <Name>mesImages\briquetransparente</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\mesImages\briquetransparente.xnb</Output>
+      <Time>2020-01-29T14:10:23.3232946+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mesImages\balle3.png</Source>
+      <Name>mesImages\balle3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\mesImages\balle3.xnb</Output>
+      <Time>2020-01-30T11:57:22.4966488+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mesImages\raquette3.png</Source>
+      <Name>mesImages\raquette3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\mesImages\raquette3.xnb</Output>
+      <Time>2020-01-30T11:57:14.3707727+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mesImages\raquettePlusPetite.png</Source>
+      <Name>mesImages\raquettePlusPetite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\mesImages\raquettePlusPetite.xnb</Output>
+      <Time>2020-01-30T11:57:16.6706981+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mesImages\raquetteVPlusPetite.png</Source>
+      <Name>mesImages\raquetteVPlusPetite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\mesImages\raquetteVPlusPetite.xnb</Output>
+      <Time>2020-01-30T11:57:20.7312285+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{61C91224-02C0-469C-93AA-497DDFF4C9D2}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriquesContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\vince\Desktop\Polytech INFO 3A\ISI\CasseBriques\CasseBriques\CasseBriques\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2019-12-11T08:54:51.771926+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
